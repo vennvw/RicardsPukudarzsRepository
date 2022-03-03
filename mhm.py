@@ -1,1 +1,1 @@
-jebal
+print("es jebal vnk")
